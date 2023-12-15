@@ -60,3 +60,14 @@ section#redes-sociais img:hover {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
   transition: transform 0.3s, border 1s;
 }
+
+@media (max-width: 600px) {
+  section#telefone {
+    position: absolute;
+    top: 40%;
+    left: 45%;
+  }
+  section#redes-sociais {
+    padding-top: 100px;
+  }
+}
