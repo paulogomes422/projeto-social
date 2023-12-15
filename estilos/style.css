@@ -64,10 +64,15 @@ section#redes-sociais img:hover {
 @media (max-width: 600px) {
   section#telefone {
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 45%;
+    
   }
   section#redes-sociais {
     padding-top: 100px;
+  }
+
+  section#redes-sociais img {
+    width: 40px;
   }
 }
