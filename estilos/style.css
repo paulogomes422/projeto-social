@@ -66,13 +66,12 @@ section#redes-sociais img:hover {
     position: absolute;
     top: 50%;
     left: 45%;
-    
   }
   section#redes-sociais {
     padding-top: 100px;
   }
 
   section#redes-sociais img {
-    width: 30px;
+    width: 50px;
   }
 }
